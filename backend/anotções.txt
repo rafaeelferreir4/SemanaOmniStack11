@@ -1,0 +1,21 @@
+/* 
+
+* GET: buscar / listar
+* POST: crirar
+* PUT: alterar
+* DELETE: deletar
+
+*/
+
+/* Tipos de parâmetros
+
+* Query Params: Parâmetros nomeados enviados na rota após "?"
+* Route Params: Parâmetros utilizados para identificar recursos ":"
+* Request Params: Corpo da requisição, utilizado para criar ou alterar recursos
+
+*/
+
+Usar sqlite usando knex
+
+comando --> npx knex
+
