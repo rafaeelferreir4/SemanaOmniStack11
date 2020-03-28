@@ -17,5 +17,5 @@
 
 Usar sqlite usando knex
 
-comando --> npx knex
+comando -> npx knex
 
